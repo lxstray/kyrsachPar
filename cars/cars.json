@@ -1,0 +1,52 @@
+{
+    "cars" : [
+        {
+            "cmpn": "MAZDA",
+            "model": "rx-7",
+            "img": "cars/img/rx-7/rx7_3.jpg",
+            "price": "$15,624",
+            "power": "160 hp",
+            "con": "10.6 l/100 km"
+        },
+        {
+            "cmpn": "PORSCHE",
+            "model": "cayman",
+            "img": "cars/img/cayman/cayman_2.png",
+            "price": "$19,891",
+            "power": "300 hp",
+            "con": "4.5 gals/100 miles"
+        },
+        {
+            "cmpn": "NISSAN",
+            "model": "silvia s15",
+            "img": "cars/img/silvia/silvia.png",
+            "price": "$22,563",
+            "power": "250 hp",
+            "con": "8.8 l/100 km"
+        },
+        {
+            "cmpn": "HONDA",
+            "model": "nsx",
+            "img": "cars/img/nsx/nsx.png",
+            "price": "$81,260",
+            "power": "270 hp",
+            "con": "10 l/100 km"
+        },
+        {
+            "cmpn": "TOYOTA",
+            "model": "gt-86",
+            "img": "cars/img/gt86/gt86.png",
+            "price": "$28,600",
+            "power": "197 hp",
+            "con": "8.4 l/100 km"
+        },
+        {
+            "cmpn": "CHEVROLET",
+            "model": "corvette C6",
+            "img": "cars/img/corvette/c6.png",
+            "price": "$52,227",
+            "power": "400 hp",
+            "con": "12.6 l/100km"
+        }
+    ]
+}
